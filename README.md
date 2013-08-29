@@ -1,7 +1,7 @@
 GeoCache
 ========
 
-Proof of concept: Teracotta Geospatial Cache based on the ESRI geometry library
+Proof of concept: Teracotta Geospatial Cache based on the ESRI geometry library.
 
 Design Concepts
 ===============
